@@ -1,0 +1,8 @@
+export const FETCH_POSTS = "FETCH_POSTS";
+export const FETCHING_POSTS = "FETCHING_POSTS";
+export const FETCHED_POSTS = "FETCHED_POSTS";
+
+export const SEARCH_POSTS = "SEARCH_POSTS";
+export const SEARCHING_POSTS = "SEARCHING_POSTS";
+
+export const VIEW_ARTICLE = "VIEW_ARTICLE";
