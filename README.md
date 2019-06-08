@@ -113,6 +113,22 @@ Slingshot offers a rich development experience using the following technologies:
 | [Editor Config](http://editorconfig.org)                | Enforce consistent editor settings (spaces vs tabs, etc).                                                                                                                                          | [IDE Plugins](http://editorconfig.org/#download)                                                                                                                                                                                                                                                            |
 | [npm Scripts](https://docs.npmjs.com/misc/scripts)      | Glues all this together in a handy automated build.                                                                                                                                                | [Pluralsight course](https://www.pluralsight.com/courses/npm-build-tool-introduction), [Why not Gulp?](https://medium.com/@housecor/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.vtaziro8n)                                                                                                      |
 
-The starter kit includes a working example app that puts all of the above to use.
-
 ---
+
+### Some Screens - Quick Look
+
+## Home Page
+
+![Home Page](https://raw.githubusercontent.com/farooqmir/React-Redux-Demonstration-with-api/master/docs/articles.png)
+
+## Loading Page
+
+![Loading Screen](https://raw.githubusercontent.com/farooqmir/React-Redux-Demonstration-with-api/master/docs/loading-articles.png)
+
+## Search Articles
+
+![Home Page](https://raw.githubusercontent.com/farooqmir/React-Redux-Demonstration-with-api/master/docs/search-articles.png)
+
+## Navigation
+
+![Home Page](https://raw.githubusercontent.com/farooqmir/React-Redux-Demonstration-with-api/master/docs/navigation.png)
